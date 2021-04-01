@@ -1,6 +1,7 @@
 ### Setup
 ---
 Clone the repo and follow below steps.
+git clone https://github.com/iyad-saleh/MyTravel.git
 1. Run `composer install`
 2. Copy `.env.example` to `.env` Example for linux users : `cp .env.example .env`
 3. Set valid database credentials of env variables `DB_DATABASE`, `DB_USERNAME`, and `DB_PASSWORD`
